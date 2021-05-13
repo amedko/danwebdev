@@ -132,12 +132,13 @@ hr{
 }
 
 .footer-link{
+  font-size: 20px;
   margin: auto 20px auto 20px;
 }
 
 .foot{
   color: #EAF6F6;
-  font-size: 14px;
+  font-size: 12px;
   margin-bottom: 0;
   margin-top: 51px;
   font-family: 'Montserrat', sans-serif;
