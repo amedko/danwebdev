@@ -24,6 +24,21 @@ h3{
   font-family: 'Montserrat', sans-serif;
 }
 
+.danarpon{
+  height: 500px;
+  width: 500px;
+  margin-top: 20px;
+  margin-bottom: 20;
+}
+
+.danpot{
+  margin-top: 10px;
+}
+
+.profile{
+  margin-bottom: 100px;
+}
+
 .top-container{
   background-color: #EAF6F6;
   padding-top: 100px;
